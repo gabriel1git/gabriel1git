@@ -2,9 +2,9 @@
 
 
 
-- 🤖 I’m currently working with Robotics.
+- 🤖 I’m currently working with Robotics(ROS2 + Gazebo + Hardware).
 - 🌱 I’m currently studing automations enginnering.
-- 👯 I’m looking to learn IA.
+- 👯 I’m looking to learn Machine learn and reinforcement learn.
 
 
 
