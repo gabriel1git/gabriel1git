@@ -4,7 +4,7 @@
 
 - 🤖 I’m currently working with Robotics(ROS2 + Gazebo + Hardware).
 - 🌱 I’m currently studing automations enginnering.
-- 👯 I’m looking to learn Machine learn.
+- 💻 I’m looking to learn Machine learn.
 
   
   <div align="center">
