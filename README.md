@@ -27,8 +27,8 @@
   ##
   
   <div align="center"> 
-    <a href="https://www.linkedin.com/in/gabriel--alves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width: 200px; height: 50px;"></a>
-    <a href="https://www.instagram.com/gabr10l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="width: 200px; height: 50px;"></a>
+    <a href="https://www.linkedin.com/in/gabriel--alves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width: 120px; height: 30px;"></a>
+    <a href="https://www.instagram.com/gabr10l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="width: 160px; height: 40px;"></a>
  	  <a href="https://www.facebook.com/gabrielAutomations/about" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="width: 200px; height: 50px;"></a>
     <a href = "mailto:ggabriel9925@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="width: 200px; height: 50px;"></a>
  
